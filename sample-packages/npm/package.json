@@ -1,4 +1,9 @@
 {
-  "name": "sample-package-delete-me",
-  "version": "1.0.5"
+  "name": "@shawnmcgough/sample-package-delete-me",
+  "version": "1.0.5",
+  "description": "Sample package",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
 }
+
